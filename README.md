@@ -1,5 +1,7 @@
 # foliate-js
 
+## This is a fork for embedding, please use the upstream distribution
+
 Library for rendering e-books in the browser.
 
 Features:
